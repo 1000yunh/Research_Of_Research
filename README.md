@@ -46,6 +46,7 @@ The arxiv-tag.ipynb file is a Jupyter Notebook that contains code and documentat
 
 ### auto_email.ipynb
 ![img.png](static/img.png)
+
 auto_email.ipynb is a Jupyter Notebook that contains code and documentation for generate iterative objects for email sending. 
 Following this notebook is a ForEach activity in microsoft fabric.
 
@@ -79,9 +80,28 @@ Place that stores and manages the metadata of the query.
 
 #### Power Search
 ![img_6.png](static/img_6.png)
+
 Place for submitting and configuring queries.
 
 ####  Search Metadata Generator
 ![img_7.png](static/img_7.png)
+
 Place for generating metadata for the search using Bing Search API and OPenai API.
 
+## 🏆 Winner - [Microsoft Fabric and AI Learning Hackathon] 
+Awarded: Best Azure Cosmos DB + Microsoft Fabric Integration
+
+Check out our **[Devpost submission](https://devpost.com/software/research-of-research)** to read about:
+- 🔍 The inspiration behind the idea  
+- 🛠️ How we built it  
+- 😅 Challenges we overcame  
+- 🧠 What we learned  
+- 🎯 What’s next for this project  
+- 🛠️ The tech stack we used  
+
+🎥 **Watch our demo video** on [YouTube](https://www.youtube.com/watch?v=McWKEFnEgEk)
+
+🧑‍💻 Contributors:
+- [Siu lun Alan Choi](https://github.com/choisiulun1)  
+- [Chien-Yun Hsu](https://github.com/1000yunh)  
+- [Po Wah Anson Chan](https://github.com/ansonchan0325)  
